@@ -1,0 +1,4 @@
+{
+    "/payments/history/:batch": "/history?batch=:batch",
+    "/payments/history": "/history"
+}
