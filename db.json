@@ -1,0 +1,244 @@
+{
+    "erros": [
+      {
+        "erroId": "b28c05c8-5e14-4980-93fa-b2a578fa4ef8",
+        "paymentId": "00170868711045497328",
+        "lineNumber": 1,
+        "cnpj": "08667585000100",
+        "errors": [
+            {
+                "code": "AR",
+                "description": "Valor de lançamento inválido"
+            },
+            {
+                "code": "AT",
+                "description": "Tipo/Número de inscrição do favorecido inválido"
+            }
+        ]
+      },
+      {
+        "erroId": "d0d04893-629c-4f2a-82bc-35179edc0581",
+        "paymentId": "00170868941108931780",
+        "lineNumber": 2,
+        "cnpj": "18844992000280",
+        "errors": [
+            {
+                "code": "AR",
+                "description": "Valor de lançamento inválido"
+            },
+            {
+                "code": "AT",
+                "description": "Tipo/Número de inscrição do favorecido inválido"
+            }
+        ]
+      },
+      {
+        "erroId": "e0718a97-2ddb-4c24-a236-abdae4ade4eb",
+        "paymentId": "00170868951018463817",
+        "lineNumber": 3,
+        "cnpj": "07237754000109",
+        "errors": [
+            {
+                "code": "AR",
+                "description": "Valor de lançamento inválido"
+            },
+            {
+                "code": "AT",
+                "description": "Tipo/Número de inscrição do favorecido inválido"
+            }
+        ]
+      },
+      {
+        "erroId": "897d6fb4-f314-412c-8fbd-3c7141440cb1",
+        "paymentId": "00170868991016496890",
+        "lineNumber": 4,
+        "cnpj": "05344335000140",
+        "errors": [
+            {
+                "code": "AR",
+                "description": "Valor de lançamento inválido"
+            },
+            {
+                "code": "AT",
+                "description": "Tipo/Número de inscrição do favorecido inválido"
+            }
+        ]
+      },
+    {
+        "erroId": "7a446e19-96de-4449-ab86-a4d731e07939",
+        "paymentId": "00170869102807135310",
+        "lineNumber": 5,
+        "cnpj": "34149094000187",
+        "errors": [
+            {
+                "code": "AR",
+                "description": "Valor de lançamento inválido"
+            },
+            {
+                "code": "AT",
+                "description": "Tipo/Número de inscrição do favorecido inválido"
+            }
+        ]
+      },
+      {
+        "erroId": "caf53ca5-4078-4dce-a502-5a9198aee056",
+        "paymentId": "00170869121111057386",
+        "lineNumber": 6,
+        "cnpj": "33064983000189",
+        "errors": [
+            {
+                "code": "AR",
+                "description": "Valor de lançamento inválido"
+            },
+            {
+                "code": "AT",
+                "description": "Tipo/Número de inscrição do favorecido inválido"
+            }
+        ]
+      },
+      {
+        "erroId": "ed35960c-5f7f-4724-b6d7-a114fd39f35d",
+        "paymentId": "00170869181002603088",
+        "lineNumber": 7,
+        "cnpj": "57364952000101",
+        "errors": [
+            {
+                "code": "AR",
+                "description": "Valor de lançamento inválido"
+            },
+            {
+                "code": "AT",
+                "description": "Tipo/Número de inscrição do favorecido inválido"
+            }
+        ]
+      },
+      {
+        "erroId": "df04a649-5824-4699-aec9-2d94f6580c2c",
+        "paymentId": "00170869212772312270",
+        "lineNumber": 8,
+        "cnpj": "34480481000100",
+        "errors": [
+            {
+                "code": "AR",
+                "description": "Valor de lançamento inválido"
+            },
+            {
+                "code": "AT",
+                "description": "Tipo/Número de inscrição do favorecido inválido"
+            }
+        ]
+      },
+      {
+        "erroId": "0c75b46c-eafe-4272-b923-9f7c52f2856b",
+        "paymentId": "00170869241007587013",
+        "lineNumber": 9,
+        "cnpj": "04972087000110",
+        "errors": [
+            {
+                "code": "AR",
+                "description": "Valor de lançamento inválido"
+            },
+            {
+                "code": "AT",
+                "description": "Tipo/Número de inscrição do favorecido inválido"
+            }
+        ]
+      },
+      {
+        "erroId": "1824a59c-f5c1-420b-bf51-1d51ca1d22a0",
+        "paymentId": "00170869281007143891",
+        "lineNumber": 10,
+        "cnpj": "04814447000155",
+        "errors": [
+            {
+                "code": "AR",
+                "description": "Valor de lançamento inválido"
+            },
+            {
+                "code": "AT",
+                "description": "Tipo/Número de inscrição do favorecido inválido"
+            }
+        ]
+      },
+      {
+        "erroId": "ba2fa80c-ba1f-4bc8-b6ad-caf41f434bf8",
+        "paymentId": "00170869291094087553",
+        "lineNumber": 11,
+        "cnpj": "28594592000136",
+        "errors": [
+            {
+                "code": "AR",
+                "description": "Valor de lançamento inválido"
+            },
+            {
+                "code": "AT",
+                "description": "Tipo/Número de inscrição do favorecido inválido"
+            }
+        ]
+      },
+      {
+        "erroId": "cb9d5184-e4fb-44c3-9f79-7431fcd30733",
+        "paymentId": "00170869301091880015",
+        "lineNumber": 12,
+        "cnpj": "27418603000164",
+        "errors": [
+            {
+                "code": "AR",
+                "description": "Valor de lançamento inválido"
+            },
+            {
+                "code": "AT",
+                "description": "Tipo/Número de inscrição do favorecido inválido"
+            }
+        ]
+      },
+      {
+        "erroId": "85350595-42d2-45a3-b8c9-959d4414f8d9",
+        "paymentId": "00170869352768558871",
+        "lineNumber": 13,
+        "cnpj": "32533439000176",
+        "errors": [
+            {
+                "code": "AR",
+                "description": "Valor de lançamento inválido"
+            },
+            {
+                "code": "AT",
+                "description": "Tipo/Número de inscrição do favorecido inválido"
+            }
+        ]
+      },
+      {
+        "erroId": "cf438225-7624-41bf-9db1-19f92f0f4e9b",
+        "paymentId": "00170869341111420871",
+        "lineNumber": 14,
+        "cnpj": "24230329000107",
+        "errors": [
+            {
+                "code": "AR",
+                "description": "Valor de lançamento inválido"
+            },
+            {
+                "code": "AT",
+                "description": "Tipo/Número de inscrição do favorecido inválido"
+            }
+        ]
+      },
+      {
+        "erroId": "0d2da0c4-0d2d-4532-a0dc-639c97c34910",
+        "paymentId": "00170869402768788982",
+        "lineNumber": 15,
+        "cnpj": "04514482000159",
+        "errors": [
+            {
+                "code": "AR",
+                "description": "Valor de lançamento inválido"
+            },
+            {
+                "code": "AT",
+                "description": "Tipo/Número de inscrição do favorecido inválido"
+            }
+        ]
+      }
+    ]
+}
